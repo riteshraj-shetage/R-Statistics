@@ -1,4 +1,4 @@
-# R-Statistics 🔢=📊
+# R-Statistics 📊🔢
 
 Welcome to my R-Statistics repository! This repository is dedicated to my assignments, practice programs, and explorations in the field of statistics using the R programming language.
 
