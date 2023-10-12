@@ -1,4 +1,4 @@
-# R-Statistics Repository
+# R-Statistics
 
 Welcome to my R-Statistics repository! This repository is dedicated to my assignments, practice programs, and explorations in the field of statistics using the R programming language.
 
@@ -22,11 +22,11 @@ To explore the content of this repository or work on the assignments, you can cl
 git clone https://github.com/b-ritesh23/R-Statistics.git
 ```
 
-##How to Use
+## How to Use
 
 Feel free to use the code and resources in this repository for your own learning or reference. If you find anything useful or have suggestions for improvement, please don't hesitate to open issues or submit pull requests.
 
-##Contact
+## Contact
 
 If you have any questions or would like to discuss anything related to the content in this repository, you can reach me at shetageriteshraj@gmail.com.
 
