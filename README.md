@@ -20,3 +20,13 @@ To explore the content of this repository or work on the assignments, you can cl
 
 ```bash
 git clone https://github.com/b-ritesh23/R-Statistics.git
+
+##How to Use
+
+Feel free to use the code and resources in this repository for your own learning or reference. If you find anything useful or have suggestions for improvement, please don't hesitate to open issues or submit pull requests.
+
+##Contact
+
+If you have any questions or would like to discuss anything related to the content in this repository, you can reach me at shetageriteshraj@gmail.com.
+
+Happy coding and exploring the fascinating world of statistics with R!
