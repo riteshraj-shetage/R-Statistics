@@ -1,0 +1,1 @@
+#To find mean deviation, variance and standard deviation for ungrouped data
