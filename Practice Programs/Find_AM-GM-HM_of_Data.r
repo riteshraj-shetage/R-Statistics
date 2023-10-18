@@ -1,0 +1,1 @@
+#To find AM, GM, HM for ungrouped data
