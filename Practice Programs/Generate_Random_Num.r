@@ -1,0 +1,1 @@
+#To generate random numbers from Discrete distn.s / Cont distn.s
