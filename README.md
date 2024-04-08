@@ -18,7 +18,8 @@ In this repository, you will find:
 
 To explore the content of this repository or work on the assignments, you can clone it to your local machine using the following command:
 
-```bash https://github.com/rites-raj/R-Statistics.git
+```bash
+git clone https://github.com/rites-raj/R-Statistics.git
 ```
 
 ## How to Use 🛠️
