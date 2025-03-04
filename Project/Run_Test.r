@@ -84,5 +84,5 @@ run_test <- function(input_string) {
   }
 }
 
-#Function call
+#run the test
 run_test(my_sequence)
